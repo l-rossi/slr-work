@@ -1,0 +1,7 @@
+matplotlib==3.8.4 # compatibility issues
+seaborn
+numpy
+pandas
+matplotlib_venn
+openpyxl
+wordcloud
